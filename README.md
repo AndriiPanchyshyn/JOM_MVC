@@ -1,8 +1,9 @@
 # Java Online Marathon
 ## Web Application ‘ToDo List’
 
-## Create Web Application with:
+Add needed dependencies for working with web and Thymeleaf to pom.xmx file
 
+### Web application should contain:
     1. 'Home' page for displaying information about all registered users
     2. 'Update existing user' for updating a user
     3. 'Create New User' page for creating a new user
